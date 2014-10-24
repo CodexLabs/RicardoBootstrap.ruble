@@ -9,6 +9,8 @@ RicardoBootstrap.ruble is a Titanium Studio add-on (ruble) will actually give th
 
 The project template uses Alloy.
 
+Here's a screenshot:
+![Ricardo Bootstrap](https://github.com/CodexLabs/RicardoBootstrap.ruble/blob/master/misc/RicardoBootstrap.png "Here's a Screenshot")
 
 ### Features
 
