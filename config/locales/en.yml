@@ -1,0 +1,7 @@
+en:
+  bundle_name: 'Ricardo Bootstrap'
+  bundle_description: 'Ricardo Bootstrap.The template provides the necessary scaffolding to implement platform-specific containers, with content reusability. Alloy Powered'
+  api_reference: 'API Reference'
+  developer_center: 'Titanium Mobile Developer Center'
+  rbs_application: "Ricardo Boostrap"
+  rbs_application_desc: "The template provides the necessary scaffolding to implement platform-specific containers, with content reusability"
